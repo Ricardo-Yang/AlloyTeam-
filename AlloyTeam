@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8">
+    <title>AlloyTeam|腾讯全端 AlloyTeam 团队</title>
+</head>
+<body>
+    <div>
+        <nav>
+            <a href="#">首页</a>
+            <a href="#">博客</a>
+            <a href="#">Github</a>
+            <a href="#">AC前端大会</a>
+            <a href="#">SuperStar</a>
+            <a href="#">Web前端导航</a>
+            <a href="#">关于</a>
+        </nav>
+        <button  needreview>
+    </div>
+
+    <section>
+        <h1>OpenSource/<span>开源项目</span></h1>
+        <p>种类众多的开源项目，让你爱不释手</p>
+        <ul>
+            <li><img src="#" alt="开放现代的Web组件化框架"></li>
+            <li><img src="#" alt="HTML专业级图像处理引擎"></li>
+            <li><img src="#" alt="丝般顺滑的触摸运动方案"></li>
+            <li><img src="#" alt="高性能模板引擎"></li>
+        </ul>
+        <button needreview>
+    </section>
+
+    <section>
+        <h1>Product/<span>作品</span></h1>
+        <p>新奇好玩的作品，让你欲罢不能</p>
+        <ul>
+            <li><img src="#" alt="CodeTank"></li>
+            <li><img src="#" alt="AlloyPhoto"></li>
+            <li><img src="#" alt="AlloyDesigner"></li>
+            <li><img src="#" alt="AlloyStick"></li>
+        </ul>
+        <button needreview>
+    </section>
+
+    <section>
+        <h1>Blog/<span>博客</span></h1>
+        <p>最新技术发展，业界前沿博客</p>
+        <ul>
+            <li></li>
+            <li></li>
+        </ul>
+        <button needreview>
+    </section>
+
+    <section>
+        <h1>SuperStar/<span>超级明星俱乐部</span></h1>
+        <p>技术达人，最强大脑，前端先驱</p>
+        <ul>
+            <li><img src="#" alt="于涛，AlloyTeam创始人"></li>
+            <li><img src="#" alt="张磊，知名博主，多个开源框架作者"></li>
+            <li><img src="#" alt="王斌，数学达人，图像处理专家"></li>
+        </ul>
+        <button needreview>
+    </section>
+
+    <footer>
+        <p>AlloyTeam</p>
+        <p>成为地球卓越的Web团队</p>
+        <p>Copytight©2017<a href="#">AlloyTeam</a>.All Right Reserved.</p>
+        <ul>
+            <li>兄弟团队</li>
+            <li><a href="#">腾讯CDC</a></li>
+            <li><a href="#">腾讯ISUX</a></li>
+            <li><a href="#">腾讯TGideas</a></li>
+            <li><a href="#">腾讯FERD</a></li>
+            <li><a href="#">百度FEX</a></li>
+            <li><a href="#">淘宝FED</a></li>
+        </ul>
+        <ul>
+            <li>友情链接</li>
+            <li><a href="#">W3CPlus</a></li>
+            <li><a href="#">W3CTech</a></li>
+            <li><a href="#">Web前端开发</a></li>
+            <li><a href="#">前端观察</a></li>
+            <li><a href="#">腾讯大讲堂</a></li>
+            <li><a href="#">牛大拿_前端设计导航</a></li>
+            <li><a href="#">印记中文</a></li>
+        </ul>
+      </footer>
+</body>
+</html>
